@@ -68,7 +68,7 @@ the different types of data transfer:
 
 
 ## How to Use
-
+**Note:** The main circuit of this project is named **CPU**. 
 ### Requirements
 - [Logisim](http://www.cburch.com/logisim/) - download and install
 
